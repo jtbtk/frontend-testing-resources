@@ -1,4 +1,4 @@
-# A list of interesting resources related to REST API, Typescript, Angular, Testing, Cypress, Karate
+# A list of interesting resources related to REST API, Typescript, Angular, Testing.
 
 ## REST API
 https://restfulapi.net/
@@ -7,12 +7,6 @@ https://restfulapi.net/
 
 
 ## Angular
-
-
-## Cypress
-
-
-## Karate
 
 
 ## Testing
