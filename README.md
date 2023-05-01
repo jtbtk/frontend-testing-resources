@@ -1,4 +1,4 @@
-# A list of interesting resources related to REST API, Typescript, Angular, Testing.
+# A list of interesting resources related to REST API, Typescript, Angular, Testing, A11Y.
 
 ## REST API
 https://restfulapi.net/
@@ -11,3 +11,5 @@ https://restfulapi.net/
 
 ## Testing
 https://testautomationu.applitools.com/web-element-locator-strategies/
+
+## A11Y
